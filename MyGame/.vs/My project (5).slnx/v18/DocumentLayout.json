@@ -1,0 +1,455 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\2026_gameEnginemidterm\\My project (5)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\2026_gameenginemidterm\\my project (5)\\assets\\movemain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\movemain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\2026_gameenginemidterm\\my project (5)\\assets\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\2026_gameenginemidterm\\my project (5)\\assets\\textmesh pro\\sprites\\emojione attribution.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\sprites\\emojione attribution.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\2026_gameenginemidterm\\my project (5)\\assets\\textmesh pro\\shaders\\tmpro_surface.cginc||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmpro_surface.cginc||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\2026_gameenginemidterm\\my project (5)\\assets\\textmesh pro\\shaders\\tmpro_properties.cginc||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmpro_properties.cginc||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\2026_gameenginemidterm\\my project (5)\\assets\\textmesh pro\\shaders\\tmpro_mobile.cginc||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmpro_mobile.cginc||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\2026_gameenginemidterm\\my project (5)\\assets\\textmesh pro\\shaders\\tmpro.cginc||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmpro.cginc||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\2026_gameenginemidterm\\my project (5)\\assets\\textmesh pro\\shaders\\tmp_sprite.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmp_sprite.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\2026_gameenginemidterm\\my project (5)\\assets\\textmesh pro\\shaders\\tmp_sdf-surface-mobile.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmp_sdf-surface-mobile.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\2026_gameenginemidterm\\my project (5)\\assets\\textmesh pro\\shaders\\tmp_sdf-surface.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmp_sdf-surface.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\2026_gameenginemidterm\\my project (5)\\assets\\textmesh pro\\shaders\\tmp_sdf-mobile-2-pass.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmp_sdf-mobile-2-pass.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\2026_gameenginemidterm\\my project (5)\\assets\\textmesh pro\\shaders\\tmp_sdf-mobile.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmp_sdf-mobile.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\2026_gameenginemidterm\\my project (5)\\assets\\textmesh pro\\shaders\\tmp_sdf-mobile ssd.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmp_sdf-mobile ssd.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\2026_gameenginemidterm\\my project (5)\\assets\\textmesh pro\\shaders\\tmp_sdf-mobile overlay.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmp_sdf-mobile overlay.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\2026_gameenginemidterm\\my project (5)\\assets\\textmesh pro\\shaders\\tmp_sdf-mobile masking.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmp_sdf-mobile masking.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\2026_gameenginemidterm\\my project (5)\\assets\\textmesh pro\\shaders\\tmp_sdf.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmp_sdf.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\2026_gameenginemidterm\\my project (5)\\assets\\textmesh pro\\shaders\\tmp_sdf ssd.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmp_sdf ssd.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\2026_gameenginemidterm\\my project (5)\\assets\\textmesh pro\\shaders\\tmp_sdf overlay.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmp_sdf overlay.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\2026_gameenginemidterm\\my project (5)\\assets\\textmesh pro\\shaders\\tmp_bitmap-mobile.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmp_bitmap-mobile.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\2026_gameenginemidterm\\my project (5)\\assets\\textmesh pro\\shaders\\tmp_bitmap-custom-atlas.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmp_bitmap-custom-atlas.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\2026_gameenginemidterm\\my project (5)\\assets\\textmesh pro\\shaders\\tmp_bitmap.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmp_bitmap.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\2026_gameenginemidterm\\my project (5)\\assets\\textmesh pro\\shaders\\sdffunctions.hlsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\sdffunctions.hlsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\2026_gameenginemidterm\\my project (5)\\assets\\textmesh pro\\resources\\linebreaking leading characters.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\resources\\linebreaking leading characters.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\2026_gameenginemidterm\\my project (5)\\assets\\textmesh pro\\resources\\linebreaking following characters.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\resources\\linebreaking following characters.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\2026_gameenginemidterm\\my project (5)\\assets\\textmesh pro\\fonts\\liberationsans - ofl.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\fonts\\liberationsans - ofl.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\2026_gameEnginemidterm\\My project (5)\\Assets\\Scenes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scenes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\2026_gameEnginemidterm\\My project (5)\\Assets\\Scenes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scenes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TMPro_Surface.cginc",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\2026_gameEnginemidterm\\My project (5)\\Assets\\TextMesh Pro\\Shaders\\TMPro_Surface.cginc",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMPro_Surface.cginc",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\2026_gameEnginemidterm\\My project (5)\\Assets\\TextMesh Pro\\Shaders\\TMPro_Surface.cginc",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMPro_Surface.cginc",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-06-20T09:46:16.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TMPro_Properties.cginc",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\2026_gameEnginemidterm\\My project (5)\\Assets\\TextMesh Pro\\Shaders\\TMPro_Properties.cginc",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMPro_Properties.cginc",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\2026_gameEnginemidterm\\My project (5)\\Assets\\TextMesh Pro\\Shaders\\TMPro_Properties.cginc",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMPro_Properties.cginc",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-06-20T09:46:16.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TMPro_Mobile.cginc",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\2026_gameEnginemidterm\\My project (5)\\Assets\\TextMesh Pro\\Shaders\\TMPro_Mobile.cginc",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMPro_Mobile.cginc",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\2026_gameEnginemidterm\\My project (5)\\Assets\\TextMesh Pro\\Shaders\\TMPro_Mobile.cginc",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMPro_Mobile.cginc",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-06-20T09:46:16.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TMPro.cginc",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\2026_gameEnginemidterm\\My project (5)\\Assets\\TextMesh Pro\\Shaders\\TMPro.cginc",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMPro.cginc",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\2026_gameEnginemidterm\\My project (5)\\Assets\\TextMesh Pro\\Shaders\\TMPro.cginc",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMPro.cginc",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-06-20T09:46:16.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TMP_Sprite.shader",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\2026_gameEnginemidterm\\My project (5)\\Assets\\TextMesh Pro\\Shaders\\TMP_Sprite.shader",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_Sprite.shader",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\2026_gameEnginemidterm\\My project (5)\\Assets\\TextMesh Pro\\Shaders\\TMP_Sprite.shader",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_Sprite.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-06-20T09:46:15.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TMP_SDF-Surface-Mobile.shader",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\2026_gameEnginemidterm\\My project (5)\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Surface-Mobile.shader",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Surface-Mobile.shader",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\2026_gameEnginemidterm\\My project (5)\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Surface-Mobile.shader",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Surface-Mobile.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-06-20T09:46:15.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TMP_SDF-Surface.shader",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\2026_gameEnginemidterm\\My project (5)\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Surface.shader",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Surface.shader",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\2026_gameEnginemidterm\\My project (5)\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Surface.shader",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Surface.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-06-20T09:46:15.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TMP_SDF-Mobile-2-Pass.shader",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\2026_gameEnginemidterm\\My project (5)\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile-2-Pass.shader",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile-2-Pass.shader",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\2026_gameEnginemidterm\\My project (5)\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile-2-Pass.shader",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile-2-Pass.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-06-20T09:46:15.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TMP_SDF-Mobile.shader",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\2026_gameEnginemidterm\\My project (5)\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile.shader",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile.shader",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\2026_gameEnginemidterm\\My project (5)\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile.shader",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-06-20T09:46:15.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TMP_SDF-Mobile SSD.shader",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\2026_gameEnginemidterm\\My project (5)\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile SSD.shader",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile SSD.shader",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\2026_gameEnginemidterm\\My project (5)\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile SSD.shader",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile SSD.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-06-20T09:46:15.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Level.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\2026_gameEnginemidterm\\My project (5)\\Assets\\Level.cs",
+              "RelativeDocumentMoniker": "Assets\\Level.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\2026_gameEnginemidterm\\My project (5)\\Assets\\Level.cs",
+              "RelativeToolTip": "Assets\\Level.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T09:45:33.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoveMain.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\2026_gameEnginemidterm\\My project (5)\\Assets\\MoveMain.cs",
+              "RelativeDocumentMoniker": "Assets\\MoveMain.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\2026_gameEnginemidterm\\My project (5)\\Assets\\MoveMain.cs",
+              "RelativeToolTip": "Assets\\MoveMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T09:12:32.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmojiOne Attribution.txt",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\2026_gameEnginemidterm\\My project (5)\\Assets\\TextMesh Pro\\Sprites\\EmojiOne Attribution.txt",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Sprites\\EmojiOne Attribution.txt",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\2026_gameEnginemidterm\\My project (5)\\Assets\\TextMesh Pro\\Sprites\\EmojiOne Attribution.txt",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Sprites\\EmojiOne Attribution.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-06-20T09:46:16.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TMP_SDF-Mobile Overlay.shader",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\2026_gameEnginemidterm\\My project (5)\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile Overlay.shader",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile Overlay.shader",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\2026_gameEnginemidterm\\My project (5)\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile Overlay.shader",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile Overlay.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-06-20T09:46:15.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TMP_SDF-Mobile Masking.shader",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\2026_gameEnginemidterm\\My project (5)\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile Masking.shader",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile Masking.shader",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\2026_gameEnginemidterm\\My project (5)\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile Masking.shader",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile Masking.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-06-20T09:46:15.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TMP_SDF.shader",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\2026_gameEnginemidterm\\My project (5)\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF.shader",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF.shader",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\2026_gameEnginemidterm\\My project (5)\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF.shader",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-06-20T09:46:15.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TMP_SDF SSD.shader",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\2026_gameEnginemidterm\\My project (5)\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF SSD.shader",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF SSD.shader",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\2026_gameEnginemidterm\\My project (5)\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF SSD.shader",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF SSD.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-06-20T09:46:14.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TMP_SDF Overlay.shader",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\2026_gameEnginemidterm\\My project (5)\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF Overlay.shader",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF Overlay.shader",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\2026_gameEnginemidterm\\My project (5)\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF Overlay.shader",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF Overlay.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-06-20T09:46:14.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TMP_Bitmap-Mobile.shader",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\2026_gameEnginemidterm\\My project (5)\\Assets\\TextMesh Pro\\Shaders\\TMP_Bitmap-Mobile.shader",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_Bitmap-Mobile.shader",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\2026_gameEnginemidterm\\My project (5)\\Assets\\TextMesh Pro\\Shaders\\TMP_Bitmap-Mobile.shader",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_Bitmap-Mobile.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-06-20T09:46:14.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TMP_Bitmap-Custom-Atlas.shader",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\2026_gameEnginemidterm\\My project (5)\\Assets\\TextMesh Pro\\Shaders\\TMP_Bitmap-Custom-Atlas.shader",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_Bitmap-Custom-Atlas.shader",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\2026_gameEnginemidterm\\My project (5)\\Assets\\TextMesh Pro\\Shaders\\TMP_Bitmap-Custom-Atlas.shader",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_Bitmap-Custom-Atlas.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-06-20T09:46:14.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TMP_Bitmap.shader",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\2026_gameEnginemidterm\\My project (5)\\Assets\\TextMesh Pro\\Shaders\\TMP_Bitmap.shader",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_Bitmap.shader",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\2026_gameEnginemidterm\\My project (5)\\Assets\\TextMesh Pro\\Shaders\\TMP_Bitmap.shader",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_Bitmap.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-06-20T09:46:14.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SDFFunctions.hlsl",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\2026_gameEnginemidterm\\My project (5)\\Assets\\TextMesh Pro\\Shaders\\SDFFunctions.hlsl",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\SDFFunctions.hlsl",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\2026_gameEnginemidterm\\My project (5)\\Assets\\TextMesh Pro\\Shaders\\SDFFunctions.hlsl",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\SDFFunctions.hlsl",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2026-06-20T09:46:14.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LineBreaking Leading Characters.txt",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\2026_gameEnginemidterm\\My project (5)\\Assets\\TextMesh Pro\\Resources\\LineBreaking Leading Characters.txt",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Resources\\LineBreaking Leading Characters.txt",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\2026_gameEnginemidterm\\My project (5)\\Assets\\TextMesh Pro\\Resources\\LineBreaking Leading Characters.txt",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Resources\\LineBreaking Leading Characters.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-06-20T09:46:13.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LineBreaking Following Characters.txt",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\2026_gameEnginemidterm\\My project (5)\\Assets\\TextMesh Pro\\Resources\\LineBreaking Following Characters.txt",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Resources\\LineBreaking Following Characters.txt",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\2026_gameEnginemidterm\\My project (5)\\Assets\\TextMesh Pro\\Resources\\LineBreaking Following Characters.txt",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Resources\\LineBreaking Following Characters.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-06-20T09:46:13.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LiberationSans - OFL.txt",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\2026_gameEnginemidterm\\My project (5)\\Assets\\TextMesh Pro\\Fonts\\LiberationSans - OFL.txt",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Fonts\\LiberationSans - OFL.txt",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\2026_gameEnginemidterm\\My project (5)\\Assets\\TextMesh Pro\\Fonts\\LiberationSans - OFL.txt",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Fonts\\LiberationSans - OFL.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-06-20T09:46:13.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Scenes.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\2026_gameEnginemidterm\\My project (5)\\Assets\\Scenes.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\2026_gameEnginemidterm\\My project (5)\\Assets\\Scenes.cs",
+              "RelativeToolTip": "Assets\\Scenes.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-21T02:32:09.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Scenes.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\2026_gameEnginemidterm\\My project (5)\\Assets\\Scenes.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\2026_gameEnginemidterm\\My project (5)\\Assets\\Scenes.cs",
+              "RelativeToolTip": "Assets\\Scenes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T09:34:46.695Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
